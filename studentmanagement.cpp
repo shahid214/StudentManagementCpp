@@ -1,4 +1,5 @@
 // Basic Student Management Record in c++ without using file handling
+// Programmer : SHAHID
 
 #include<iostream>
 #include<stdio.h>

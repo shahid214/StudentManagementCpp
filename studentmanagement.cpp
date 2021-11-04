@@ -1,4 +1,4 @@
-// Basic Student Management Record in c++ 
+// Basic Student Management Record in c++ without using file handling
 
 #include<iostream>
 #include<stdio.h>
